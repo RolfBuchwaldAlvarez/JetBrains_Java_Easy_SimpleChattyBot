@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="SimpleChattyBot.Simple_Chatty_Bot-task-build-classes-java.main" target="11" />
+      <module name="SimpleChattyBot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="SimpleChattyBot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="SimpleChattyBot.Simple_Chatty_Bot-task-build-reports-tests.main" target="11" />
+      <module name="SimpleChattyBot.Simple_Chatty_Bot-task-build-test-results.main" target="11" />
+      <module name="SimpleChattyBot.Simple_Chatty_Bot-task-build-tmp.main" target="11" />
+      <module name="SimpleChattyBot.Simple_Chatty_Bot-task.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Comments-Hello,_Java_platform.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Comments-Incorrect_comments.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Comments-The_forgotten_comments.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Comments-Theory.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Comments-Three_numbers.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Comments-Uncomment_a_line.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Introduction_to_Java-Hello_.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Introduction_to_Java-Theory.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Overview_of_the_basic_program-Cats_are_robots.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Overview_of_the_basic_program-Hello,_Java.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Overview_of_the_basic_program-The_Hello_World_program.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Printing_data-Digits_from_0_to_9_backwards.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Printing_data-First,_second,_third.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Printing_data-From_0_to_4.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Printing_data-Printing_a_magic_letter.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Printing_data-Theory.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Printing_data-We_need_to_learn_Java.main" target="11" />
+      <module name="SimpleChattyBot.Topics-String-Check_burgs.main" target="11" />
+      <module name="SimpleChattyBot.Topics-String-Check_prefix_ignoring_the_case.main" target="11" />
+      <module name="SimpleChattyBot.Topics-String-Comparing_strings_ignoring_whitespaces.main" target="11" />
+      <module name="SimpleChattyBot.Topics-String-Extracting_a_substring.main" target="11" />
+      <module name="SimpleChattyBot.Topics-String-Replacing_'a'_with_'b'.main" target="11" />
+      <module name="SimpleChattyBot.Topics-String-Theory.main" target="11" />
+      <module name="SimpleChattyBot.Topics-The_for-loop-Arithmetic_average.main" target="11" />
+      <module name="SimpleChattyBot.Topics-The_for-loop-Grades.main" target="11" />
+      <module name="SimpleChattyBot.Topics-The_for-loop-Maximum_element_divisible_by_four.main" target="11" />
+      <module name="SimpleChattyBot.Topics-The_for-loop-Numbers_divisible_by_six.main" target="11" />
+      <module name="SimpleChattyBot.Topics-The_for-loop-Size_of_parts.main" target="11" />
+      <module name="SimpleChattyBot.Topics-The_for-loop-The_count_of_numbers_divisible_by_N.main" target="11" />
+      <module name="SimpleChattyBot.Topics-The_for-loop-The_product_of_numbers_from_a_to_b.main" target="11" />
+      <module name="SimpleChattyBot.Topics-The_for-loop-The_roots_of_an_equation.main" target="11" />
+      <module name="SimpleChattyBot.Topics-The_for-loop-The_sum_of_integers_from_a_to_b.main" target="11" />
+      <module name="SimpleChattyBot.Topics-The_for-loop-Theory.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Types_and_variables-Assignments.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Types_and_variables-Assignments__1_.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Types_and_variables-Fill_the_declaration.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Types_and_variables-Invalid_declaration_of_variables.main" target="11" />
+      <module name="SimpleChattyBot.Topics-Types_and_variables-Theory.main" target="11" />
+      <module name="SimpleChattyBot.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
